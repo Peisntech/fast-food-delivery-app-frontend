@@ -1,4 +1,4 @@
-# 🍔 PeisinTech Food - Fast Food Delivery Platform this is my frontend test 
+# 🍔  Fast Food Delivery Platform this is my frontend test 
 
 **Kikoni Door to Door Fast Foods** - A modern, fast, and responsive food delivery frontend delivering delicious meals straight to your doorstep in Kampala.
 ### 🚀 Tech Stack
