@@ -39,7 +39,7 @@ public/ # Static assets
 
 ✅### bash
 Clone the repo
-git clone https://github.com/Peisintech/fast-food-delivery-app-frontend.git
+git clone :https://peisntech.github.io/fast-food-delivery-app-frontend/
 
 💥# Go to project
 cd fast-food-delivery-app-frontend
